@@ -21,7 +21,7 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 ## Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,next.js,ts,java,nodejs,wordpress,figma,jest,mongodb,mysql,postgres,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,materialui,nextjs,jquery,express,nodejs,redux,nodejs,wordpress,figma,angular,jest,mongodb,mysql,postgres,postman)](https://skillicons.dev)
 
 <picture>
   <source
