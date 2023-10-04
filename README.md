@@ -14,8 +14,9 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 - 🙌  I'm open to collaborating on full stack projects.
 
 # 🤝 Connect with me:
-<a href=”https://www.linkedin.com/in/ateja-janciukaite/"><img src="https://www.flaticon.com/free-icons/linkedin">
-
+<a href="https://www.linkedin.com/in/ateja-janciukaite/">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="LinkedIn">
+</a>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 ## Skills
 
