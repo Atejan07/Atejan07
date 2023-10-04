@@ -12,7 +12,7 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 
 - 🙌  I'm open to collaborating on full stack projects.
 
-# 🤝 Connect with me:
+## 🤝 Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atejan07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ateja-janciukaite/)  
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
