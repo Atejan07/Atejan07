@@ -20,8 +20,8 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 
 ## Skills
 
-https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
-https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,next.js,ts,java,nodejs,wordpress,figma,jest,mongodb,mysql,postgres,postman)](https://skillicons.dev)
 
 <picture>
   <source
