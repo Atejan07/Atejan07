@@ -15,9 +15,11 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 
 # 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/ateja-janciukaite/">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="LinkedIn">
+  <img src="https://www.flaticon.com/free-icons/linkedin" alt="LinkedIn">
 </a>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,materialui,nextjs,jquery,express,nodejs,redux,nodejs,wordpress,figma,angular,jest,mongodb,mysql,postgres,postman)](https://skillicons.dev)
