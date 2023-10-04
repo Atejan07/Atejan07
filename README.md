@@ -1,5 +1,7 @@
 # 👩‍💻 Ateja Janciukaite
 
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
 **`FRONT-END SOFTWARE ENGINEER`**
 
 As a Front-end engineer, I find myself continuously enhancing my proficiency and deepening my understanding of various programming languages and frameworks. With each passing day, I become increasingly enthralled by the logical and problem-solving aspects of coding.
@@ -9,17 +11,13 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 
 - 📧 You can contact me at atejanciukaite@gmail.com.
 
-- 🤝  I'm open to collaborating on full stack projects.
+- 🙌  I'm open to collaborating on full stack projects.
 
-### Languages
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 🤝 Connect with me:
+<a href=”https://www.linkedin.com/in/ateja-janciukaite/"><img src="https://www.flaticon.com/free-icons/linkedin">
 
-
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 ## Skills
-
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,materialui,nextjs,jquery,express,nodejs,redux,nodejs,wordpress,figma,angular,jest,mongodb,mysql,postgres,postman)](https://skillicons.dev)
 
