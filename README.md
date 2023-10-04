@@ -1,6 +1,5 @@
 # 👩‍💻 Ateja Janciukaite
 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 
 **`FRONT-END SOFTWARE ENGINEER`**
 
@@ -15,7 +14,7 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 
 # 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/ateja-janciukaite/">
-  <img src="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLinkedIn%2F&psig=AOvVaw1Jl3xGy8wHQ4wBFXxLyb4u&ust=1696524438673000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOji45Xs3IEDFQAAAAAdAAAAABAE" title="LinkedIn">
 </a>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
