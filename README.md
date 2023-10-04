@@ -15,7 +15,7 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 
 # 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/ateja-janciukaite/">
-  <img src="https://www.flaticon.com/free-icons/linkedin" alt="LinkedIn">
+  <img src="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">
 </a>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
