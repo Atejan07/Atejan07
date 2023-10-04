@@ -30,6 +30,8 @@ As a Front-end engineer, I find myself continuously enhancing my proficiency and
 </picture>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atejan07&layout=compact)
+
 Other things I am interested in my day to day life:
 
 
