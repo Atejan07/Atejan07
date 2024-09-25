@@ -6,7 +6,7 @@
 As a Front-end engineer, I find myself continuously enhancing my proficiency and deepening my understanding of various programming languages and frameworks. With each passing day, I become increasingly enthralled by the logical and problem-solving aspects of coding.
 
 
-- 🌍  I'm based in St. Petersburg, FL.
+- 🌍  I'm based in Venice, FL.
 
 - 📧 You can contact me at atejanciukaite@gmail.com.
 
